@@ -1,0 +1,22 @@
+This dataset contains a variety of entries representing insights from different sectors such as energy, environment, government, and finance. The fields provide key information related to topics such as oil, gas, market trends, and geopolitical developments. Here’s an overview of how some of the key fields are structured:
+
+ End Year: This field often represents the forecasted end date of an event or trend (e.g., 2027 for the electric boat market). It is blank for ongoing or indefinite trends.
+
+ Intensity: Indicates the level of impact or importance. Higher numbers (e.g., 60 for electric boats) suggest a stronger influence or significant market change.
+
+ Sector: The industry or sector associated with the insight (e.g., "Energy" or "Government"). Some entries have this field missing.
+
+ Topic: The main subject or focus of the insight (e.g., "oil," "gas," "market").
+ Insight: A summary or key takeaway of the data, providing context for the entry (e.g., "U.S. natural gas consumption is expected to increase").
+
+ Region: Geographical focus, ranging from specific countries (e.g., United States, Mexico) to broader regions like "World" or "Northern America."
+
+ Relevance: A numerical value indicating how pertinent the information is to the overall dataset. Typically, the higher the number, the more relevant the data.
+
+ Pestle: The categorization of the insight into PESTLE factors (Political, Economic, Social, Technological, Legal, Environmental).
+ 
+ Source: Identifies where the data was obtained (e.g., "EIA," "SBWire").
+
+To create meaningful visualizations, we could extract metrics like intensity, relevance, and likelihood across different sectors, topics, and regions, and filter data by these dimensions (e.g., top 10 highest intensity insights). 
+
+Would you like help with building visualizations for a specific subset of this data? Or perhaps constructing filters for a dashboard?
